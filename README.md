@@ -1,3 +1,3 @@
 # threejs_project_prototype  from   www.codingcoffee.org    more courses 
 
-demo :  https://codingcoffee-01.github.io/threejs_ex/
+demo : https://chiyanglin-astar.github.io/threejs_ex/
